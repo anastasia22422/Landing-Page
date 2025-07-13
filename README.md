@@ -11,11 +11,7 @@ git clone https://github.com/your-username/project-name.git
 cd project-name
 
 2. Install dependencies:
-npm install
-# or
-yarn install
+npm install or yarn install
 
 3. Run the project locally:
-npm start
-# or
-yarn start
+npm start or yarn start
