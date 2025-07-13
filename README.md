@@ -8,7 +8,6 @@ List the main technologies and frameworks used in the project: css, scss, html
 **Getting Started**
 1. Clone the repository:
 git clone https://github.com/your-username/project-name.git
-
 cd project-name
 
 3. Install dependencies:
