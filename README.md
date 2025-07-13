@@ -14,7 +14,7 @@ This is a **responsive landing page** created as a frontend practice project. Th
 
 
 
-Technologies Used
+**Technologies Used**
 
 | Technology | Purpose |
 |------------|---------|
