@@ -1,5 +1,5 @@
 This project is a modern e-commerce website UI for Bang & Olufsen, a premium audio brand. Its purpose is to showcase and promote audio products such as speakers, headphones, and earphones. 
-**Live Preview:** [DEMO LINK](https://anastasia22422.github.io/Landing-Page/)
+**Live Preview:** [DEMO LINK](https://anastasia22422.github.io/landing-test/)
 
 **Design Reference:** [B&O](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6817-212&t=ZTV6Gl8NzaWkJ4FK-0) 
 
