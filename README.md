@@ -18,7 +18,7 @@ Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
-| **HTML5**  | Page structure with semantic markup |
+| **HTML**  | Page structure with semantic markup |
 | **CSS / SCSS **   | Styling, layout, responsive design |
 | **BEM**    | CSS class naming convention for maintainable code |
 | **Google Fonts** | Custom typography |
