@@ -8,10 +8,11 @@ List the main technologies and frameworks used in the project: css, scss, html
 **Getting Started**
 1. Clone the repository:
 git clone https://github.com/your-username/project-name.git
+
 cd project-name
 
-2. Install dependencies:
+3. Install dependencies:
 npm install or yarn install
 
-3. Run the project locally:
+4. Run the project locally:
 npm start or yarn start
