@@ -4,15 +4,15 @@ This is a **responsive landing page** created as a frontend practice project. Th
 
 **Design Reference:** [B&O](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6817-212&t=ZTV6Gl8NzaWkJ4FK-0) 
 
-**Project Goals
-**
+**Project Goals**
+
 - Practice semantic HTML and BEM methodology
 - Build a fully responsive layout using CSS Flexbox/Grid
 - Use modern design principles (typography, whitespace, alignment)
 - Structure files for scalability and readability
 - Deploy the project using **GitHub Pages**
 
----
+
 
 Technologies Used
 
