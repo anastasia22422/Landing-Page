@@ -24,6 +24,7 @@ This is a **responsive landing page** created as a frontend practice project. Th
 | **Google Fonts** | Custom typography |
 | **Git & GitHub** | Version control and hosting |
 | **GitHub Pages** | Free deployment |
+-----
 
 **Getting Started**
 1. Clone the repository:
