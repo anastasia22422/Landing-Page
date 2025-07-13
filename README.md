@@ -1,6 +1,6 @@
 This is a **responsive landing page** created as a frontend practice project. The main goal of this project was to design and develop a clean, modern, and mobile-friendly landing page layout that could be used for portfolios, product promotions, or small businesses.
 
-📍 **Live Demo**: [Click to view the site](https://anastasia22422.github.io/landing-test/)
+**Live Demo**: [Click to view the site](https://anastasia22422.github.io/landing-test/)
 
 **Design Reference:** [B&O](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6817-212&t=ZTV6Gl8NzaWkJ4FK-0) 
 
