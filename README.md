@@ -7,7 +7,7 @@ This is a **responsive landing page** created as a frontend practice project. Th
 **Project Goals**
 
 - Practice semantic HTML and BEM methodology
-- Build a fully responsive layout using CSS Flexbox/Grid
+- Build a fully responsive layout using CSS (Flexbox) / SCSS
 - Use modern design principles (typography, whitespace, alignment)
 - Structure files for scalability and readability
 - Deploy the project using **GitHub Pages**
